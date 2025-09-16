@@ -3,7 +3,7 @@ email: your-email@example.com
 description: >-
   A GitHub Pages + Jekyll blog that auto-imports posts from an RSS feed.
 baseurl: ""
-url: "https://bhashasanskriti.wordpress.com/tag/hindi-grammar/feed/"
+url: "https://www.myallinone.in/feed/hindi-grammar"
 theme: minima
 
 plugins:
